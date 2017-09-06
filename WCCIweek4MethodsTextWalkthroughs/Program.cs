@@ -83,5 +83,7 @@ namespace WCCIweek4MethodsTextWalkthroughs
             int sumOfFour = w + x + y + z;
             Console.WriteLine(sumOfFour);
         }
+
+        //there's more in the text, but class moved on to OOP
     }
 }
